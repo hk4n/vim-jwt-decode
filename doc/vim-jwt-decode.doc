@@ -1,0 +1,11 @@
+VIM-JWT-DECODE.VIM                                            'vim-jwt-decode'
+==============================================================================
+
+A small and simple JWT decode plugin
+
+Usage:
+paste the JWT into an empty buffer and use the command
+`<leader>jwt`
+or
+`:JwtDecode`
+
